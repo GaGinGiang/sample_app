@@ -1,0 +1,30 @@
+vi:
+  home: "Trang chu"
+  help: "Tro giup"
+  contact: "Lien he"
+  about: "Khac"
+  app_name: "Ung dung mau"
+  static_pages:
+    home:
+     this_is: "Day la trang chu cua"
+     ruby: "ung dung mau Ruby"
+     sample: "."
+    help:
+      get: "Nhan su tro giup tren Ruby on Rails Tutorial tai"
+      to_get: "De nhan su tro giup trong ung dung mau, truy cap"
+      rails: "trang tro giup Rails Tutorial"
+      book: ""
+      ruby2: "Ruby on Rails Tutorial"
+    contact:
+      contact: "Lien he Ruby on Rails Tutorial ve ung dung mau tai"
+      conp: "trang lien he"
+    about:
+      the: ""
+      ruby3: "Ruby on Rails Tutorial"
+      is: "la mot"
+      b: "cuon sach"
+      a: "va"
+      scr: "loat video"
+      to: "huong dan ve phat trien web voi "
+      rub: "Ruby on Rails"
+      this: "Day la ung dung mau cho bai huong dan."
