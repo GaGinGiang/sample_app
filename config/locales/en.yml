@@ -8,9 +8,19 @@ en:
   log_in: "Log in"
   sign: "Sign up"
   users:
+    show:
+      us: "User not found!"
+    create:
+      welcome: "Welcome to the Sample App!"
     new:
       sign: "Sign up"
       this: "This will be a signup page for new users."
+      name: "Name"
+      email: "Email"
+      pass: "Password"
+      con: "Password confirmation"
+      creat: "Create my account"
+
   helpers:
     application_helpers:
       base: "Ruby on Rails Tutorial Sample App"
@@ -41,8 +51,12 @@ en:
       this: "This is the sample application for the tutorial."
   layouts:
     footer:
-      t: "The"
+      the: "The"
       r: "Ruby on Rails Tutorial"
       by: "by"
-      mh: "Michael Hartl"
+      MH: "Michael Hartl"
       news: "News"
+  shared:
+    error_messages:
+      this: "The form contains"
+      err: "error"
